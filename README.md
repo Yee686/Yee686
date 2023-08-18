@@ -1,23 +1,32 @@
-### Hi! 👋
+### Hi! Welcome to Yee's Github Page👋👋
 
-<!--
-**Yee686/Yee686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+#### 🌻 About Me
+- 🔭 I’m a master student majay in Computer Technology at [WNLO](http://english.wnlo.hust.edu.cn/), and a member of [HUST IDSM](http://idsm.wnlo.hust.edu.cn/index.htm) Lab.🏫
+  
+- 🤩 I'm interested in `Intelligent Data Management`, `Storage System`, `Distributed System`, etc.🏆
 
-Here are some ideas to get you started:
+<!-- <div style="display: flex; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-20-59-35-README.png" style="width: 30%; object-fit: cover; height: 200px;" />
+    <img src="https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-21-01-04-README.png" style="width: 30%; object-fit: cover; height: 200px;" />
+    <img src="https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-21-03-17-README.png" style="width: 30%; object-fit: cover; height: 200px;" />
+</div> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-- 🔭 I’m a master student majay in Computer Technology at ![WNLO](http://english.wnlo.hust.edu.cn/).
-- 💻 I'm a member of ![HUST-IDSM](http://idsm.wnlo.hust.edu.cn/index.htm)
-- 🤩 I'm interested in Intelligent Data Management, Storage System, Distributed System, etc.🏆
+<!-- ||||
+|:-------------:|:-----------------:|:-----------------:|
+|![](https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-20-59-35-README.png)|![](https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-21-01-04-README.png)|![](https://raw.githubusercontent.com/Yee686/Picbed/main/2023-08-18-21-03-17-README.png)| -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yee686)](https://github.com/Yee686/github-readme-stats)
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yee686&show_icons=true&theme=tokyonight)
+---
+
+#### 🌲 My Actions
+
+<div align="center">
+
+| |  |
+|:-------------:|:-----------------:|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yee686)](https://github.com/Yee686/github-readme-stats) | ![Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yee686&show_icons=true&theme=tokyonight) |
+
+</div>
+
+---
