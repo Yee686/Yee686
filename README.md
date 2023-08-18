@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 <!--
 **Yee686/Yee686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Yee686/github-readme-stats)
+
+- 🔭 I’m a master student majay in Computer Technology at ![WNLO](http://english.wnlo.hust.edu.cn/).
+- 💻 I'm a member of ![HUST-IDSM](http://idsm.wnlo.hust.edu.cn/index.htm)
+- 🤩 I'm interested in Intelligent Data Management, Storage System, Distributed System, etc.🏆
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yee686)](https://github.com/Yee686/github-readme-stats)
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yee686&show_icons=true&theme=tokyonight)
